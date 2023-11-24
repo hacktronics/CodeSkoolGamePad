@@ -1,0 +1,8 @@
+#ifndef WIFI_CONFIG
+#define WIFI_CONFIG
+
+#define WIFI_SSID "MyWifiNetwork"
+#define WIFI_PASSWORD "MyWiFiPassword"
+#define MOBILE_GAMEPAD_SERVER_IP "192.168.1.7"
+
+#endif
